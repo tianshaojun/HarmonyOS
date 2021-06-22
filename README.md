@@ -1,6 +1,6 @@
 # HarmonyOS
 
-### 1.鸿蒙系统简介
+### 1. 鸿蒙系统简介
 
 + 鸿蒙系统OpenHarmony由来
 
